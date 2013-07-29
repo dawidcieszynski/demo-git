@@ -9,6 +9,11 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            var user = new User();
         }
+    }
+
+    internal class User
+    {
     }
 }
