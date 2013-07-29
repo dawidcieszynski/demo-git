@@ -12,8 +12,4 @@ namespace ConsoleApplication
             var user = new User();
         }
     }
-
-    internal class User
-    {
-    }
 }
